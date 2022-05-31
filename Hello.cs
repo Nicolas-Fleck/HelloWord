@@ -1,7 +1,7 @@
 public class Hello
 {
-  public static void main()
+  public static void main(String[] args)
   {
-    Console.WriteLine("Hello, World!");
+    Console.Out.WriteLine("Hello, World!");
   }
 }
