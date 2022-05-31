@@ -1,7 +1,9 @@
+using System;
+
 public class Hello
 {
-  public static void main(string[] args)
+  public static void Main(string[] args)
   {
-    Console.Out.WriteLine("Hello, World!");
+    System.Console.Out.WriteLine("Hello, World!");
   }
 }
